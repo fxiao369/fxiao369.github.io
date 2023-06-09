@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2023/05/25/test-1/</url>
-    <content><![CDATA[<p>###moban</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2023/05/25/test-2/</url>
-    <content><![CDATA[<h1 align="center">论文标题</h1>
-
-<p>&#x2F;&#x2F;摘要部分</p>
-<h2 id="论文试图解决什么问题？"><a href="#论文试图解决什么问题？" class="headerlink" title="论文试图解决什么问题？"></a>论文试图解决什么问题？</h2><h2 id="这是否是一个新的问题？"><a href="#这是否是一个新的问题？" class="headerlink" title="这是否是一个新的问题？"></a>这是否是一个新的问题？</h2><h2 id="这篇文章要验证一个什么样的？"><a href="#这篇文章要验证一个什么样的？" class="headerlink" title="这篇文章要验证一个什么样的？"></a>这篇文章要验证一个什么样的？</h2><h2 id="有哪些相关研究？如何归类？有哪些值得关注的工作？"><a href="#有哪些相关研究？如何归类？有哪些值得关注的工作？" class="headerlink" title="有哪些相关研究？如何归类？有哪些值得关注的工作？"></a>有哪些相关研究？如何归类？有哪些值得关注的工作？</h2><h2 id="论文中提到的解决方案关键是什么"><a href="#论文中提到的解决方案关键是什么" class="headerlink" title="论文中提到的解决方案关键是什么?"></a>论文中提到的解决方案关键是什么?</h2><h2 id="论文的实验如何设计？"><a href="#论文的实验如何设计？" class="headerlink" title="论文的实验如何设计？"></a>论文的实验如何设计？</h2><h2 id="论文使用的数据集是什么？代码是否开源？"><a href="#论文使用的数据集是什么？代码是否开源？" class="headerlink" title="论文使用的数据集是什么？代码是否开源？"></a>论文使用的数据集是什么？代码是否开源？</h2><h2 id="论文中的实验以及结果有没有很好的支持需要验证的科学假设？"><a href="#论文中的实验以及结果有没有很好的支持需要验证的科学假设？" class="headerlink" title="论文中的实验以及结果有没有很好的支持需要验证的科学假设？"></a>论文中的实验以及结果有没有很好的支持需要验证的科学假设？</h2><h2 id="这篇论文有什么贡献？"><a href="#这篇论文有什么贡献？" class="headerlink" title="这篇论文有什么贡献？"></a>这篇论文有什么贡献？</h2><h2 id="有什么工作可以继续深入？"><a href="#有什么工作可以继续深入？" class="headerlink" title="有什么工作可以继续深入？"></a>有什么工作可以继续深入？</h2>]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2023/05/25/test-3/</url>
-    <content><![CDATA[<h2 id="论文标题"><a href="#论文标题" class="headerlink" title="论文标题"></a>论文标题</h2><h2 id="论文地址"><a href="#论文地址" class="headerlink" title="论文地址"></a>论文地址</h2><span id="more"></span>
+    <title>Architecture</title>
+    <url>/2023/06/09/Readpaper%20DeepBurning-SEG%20Generating%20DNN%20Accelerators%20of%20Segment-Grained%20Pipeline%20Architecture/</url>
+    <content><![CDATA[<span id="more"></span>
 
 <h3 id="论文试图解决什么问题？"><a href="#论文试图解决什么问题？" class="headerlink" title="论文试图解决什么问题？"></a>论文试图解决什么问题？</h3><h3 id="这是否是一个新的问题？"><a href="#这是否是一个新的问题？" class="headerlink" title="这是否是一个新的问题？"></a>这是否是一个新的问题？</h3><h3 id="这篇文章要验证一个什么样的？"><a href="#这篇文章要验证一个什么样的？" class="headerlink" title="这篇文章要验证一个什么样的？"></a>这篇文章要验证一个什么样的？</h3><h3 id="有哪些相关研究？如何归类？有哪些值得关注的工作？"><a href="#有哪些相关研究？如何归类？有哪些值得关注的工作？" class="headerlink" title="有哪些相关研究？如何归类？有哪些值得关注的工作？"></a>有哪些相关研究？如何归类？有哪些值得关注的工作？</h3><h3 id="论文中提到的解决方案关键是什么"><a href="#论文中提到的解决方案关键是什么" class="headerlink" title="论文中提到的解决方案关键是什么?"></a>论文中提到的解决方案关键是什么?</h3><h3 id="论文的实验如何设计？"><a href="#论文的实验如何设计？" class="headerlink" title="论文的实验如何设计？"></a>论文的实验如何设计？</h3><h3 id="论文使用的数据集是什么？代码是否开源？"><a href="#论文使用的数据集是什么？代码是否开源？" class="headerlink" title="论文使用的数据集是什么？代码是否开源？"></a>论文使用的数据集是什么？代码是否开源？</h3><h3 id="论文中的实验以及结果有没有很好的支持需要验证的科学假设？"><a href="#论文中的实验以及结果有没有很好的支持需要验证的科学假设？" class="headerlink" title="论文中的实验以及结果有没有很好的支持需要验证的科学假设？"></a>论文中的实验以及结果有没有很好的支持需要验证的科学假设？</h3><h3 id="这篇论文有什么贡献？"><a href="#这篇论文有什么贡献？" class="headerlink" title="这篇论文有什么贡献？"></a>这篇论文有什么贡献？</h3><h3 id="有什么工作可以继续深入？"><a href="#有什么工作可以继续深入？" class="headerlink" title="有什么工作可以继续深入？"></a>有什么工作可以继续深入？</h3>]]></content>
-      <tags>
-        <tag>AI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2023/05/25/test/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
